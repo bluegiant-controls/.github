@@ -1,1 +1,1 @@
-# .github
+# BlueGiant Controls Engineering Group
